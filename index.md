@@ -1,6 +1,6 @@
 # Libretas en Colab
 
-![](C:\Users\usuario\Downloads\bulld%20(3).jpg)
+![](bulld%20(3).jpg)
 
 ---
 
