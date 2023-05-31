@@ -1,5 +1,3 @@
-# Libretas en Colab
-
 ![](bulld%20(3).jpg)
 
 ---
