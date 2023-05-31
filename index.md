@@ -90,7 +90,7 @@ En esta página encontrarás múltiples libretas de Google Colab con diversos te
 
 <br>
 
-<a href="Deep_Learning.html2" style="background-color: #F705EA; color: #FFFFFF; border: none; padding: 10px 15px; border-radius: 5px;">Red neuronal II</a>
+<a href="Deep_Learning2.html" style="background-color: #F705EA; color: #FFFFFF; border: none; padding: 10px 15px; border-radius: 5px;">Red neuronal II</a>
 
 
 <br>
@@ -105,7 +105,7 @@ En esta página encontrarás múltiples libretas de Google Colab con diversos te
 
 <br>
 
-<a href="deep_learning.html" style="background-color: #F705EA; color: #FFFFFF; border: none; padding: 10px 15px; border-radius: 5px;">Red neuronal V</a>
+<a href="deep_learning5.html" style="background-color: #F705EA; color: #FFFFFF; border: none; padding: 10px 15px; border-radius: 5px;">Red neuronal V</a>
 
 
 <br>
